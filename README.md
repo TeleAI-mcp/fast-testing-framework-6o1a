@@ -1,2 +1,3 @@
-# fast-testing-framework-6o1a
+# Fast Testing Framework 6O1A
+
 A repository to test GitHub automation for issue management.
